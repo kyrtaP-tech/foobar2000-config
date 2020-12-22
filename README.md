@@ -1,2 +1,2 @@
 # foobar2000-config
-my config
+This is my config. Photos is in repo.
